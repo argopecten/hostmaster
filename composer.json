@@ -18,7 +18,6 @@
         "drupal/hosting": "^3.180",
         "drupal/eldir": "^3.180",
         "drupal/hosting_civicrm": "^3.180",
-        "drupal/hosting_deploy": "dev-3.x",
         "drupal/hosting_git": "^3.181",
         "drupal/hosting_https": "^3.182",
         "drupal/hosting_logs": "^3.181",
