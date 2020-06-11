@@ -18,15 +18,13 @@
         "drupal/hosting": "^3.180",
         "drupal/eldir": "^3.180",
         "drupal/hosting_civicrm": "^3.180",
-        "argopecten/hosting_deploy": "^3.2",
+        "argopecten/hosting_deploy": "3.2.2",
         "drupal/hosting_git": "^3.181",
         "drupal/hosting_https": "^3.182",
         "drupal/hosting_logs": "^3.181",
         "drupal/hosting_remote_import": "^3.180",
         "drupal/hosting_site_backup_manager": "^3.180",
-        "drupal/hosting_tasks_extra": "^3.180",
-        "drupal/aegir_objects": "3.1",
-        "drupal/features": "2.11"
+        "drupal/hosting_tasks_extra": "^3.180"
     },
     "repositories": [
         {
