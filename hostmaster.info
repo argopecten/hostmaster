@@ -18,33 +18,22 @@ dependencies[] = system
 dependencies[] = user
 
 ;; Aegir core ;;
-;; hosting modules
 dependencies[] = hosting
-;dependencies[] = hosting_alias
+dependencies[] = hosting_task
 dependencies[] = hosting_client
-dependencies[] = hosting_clone
-;dependencies[] = hosting_cron
 dependencies[] = hosting_db_server
-;dependencies[] = hosting_example
-dependencies[] = hosting_migrate
 dependencies[] = hosting_package
 dependencies[] = hosting_platform
-; not here! dependencies[] = hosting_queued
-;dependencies[] = hosting_quota
-dependencies[] = hosting_server
-;dependencies[] = hosting_signup
 dependencies[] = hosting_site
-;dependencies[] = hosting_subdirs
-dependencies[] = hosting_task
-;dependencies[] = hosting_task_gc
-;dependencies[] = hosting_web_cluster
-;dependencies[] = hosting_web_pack
 dependencies[] = hosting_web_server
+dependencies[] = hosting_server
+;dependencies[] = hosting_clone
+;dependencies[] = hosting_cron
+;dependencies[] = hosting_migrate
 
-;; Aegir golden contrib: hosting_deploy ;;
+;; Aegir golden contrib ;;
 dependencies[] = hosting_platform_composer_git
-;dependencies[] = hosting_platform_composer
-;dependencies[] = hosting_platform_git
+dependencies[] = hosting_platform_git
 
 ;; Drupal contrib ;;
 dependencies[] = admin_menu
