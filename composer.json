@@ -14,7 +14,7 @@
         "drupal/r4032login": "1.8",
         "drupal/views": "3.24",
         "drupal/views_bulk_operations": "3.6",
-        "drupal/provision": "^3.185",
+        "drupal/provision": "^3.186",
         "drupal/hosting": "^3.180",
         "drupal/eldir": "^3.180",
         "drupal/hosting_civicrm": "^3.180",
