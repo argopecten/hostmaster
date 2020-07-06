@@ -24,7 +24,10 @@
         "drupal/hosting_remote_import": "^3.180",
         "drupal/hosting_site_backup_manager": "^3.180",
         "drupal/hosting_tasks_extra": "^3.180",
-        "argopecten/hosting_deploy": "dev-master"
+        "argopecten/hosting_deploy": "dev-master",
+        "drupal/drupal": "^7.71",
+        "drush/drush": "^8.0",
+        "drupal/provision": "^3.180"
     },
     "repositories": [
         {
