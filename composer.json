@@ -14,7 +14,6 @@
         "drupal/r4032login": "^1.8",
         "drupal/views": "^3.24",
         "drupal/views_bulk_operations": "^3.6",
-        "drupal/provision": "3.185",
         "drupal/hosting": "3.180",
         "drupal/eldir": "3.180",
         "drupal/hosting_civicrm": "3.180",
@@ -24,6 +23,9 @@
         "drupal/hosting_remote_import": "3.180",
         "drupal/hosting_site_backup_manager": "3.180",
         "drupal/hosting_tasks_extra": "3.180",
+        "drupal/provision": "3.185",
+        "drupal/drupal": "7.71",
+        "drush/drush": "^8.0",
         "argopecten/hosting_deploy": "dev-master"
     },
     "repositories": [
