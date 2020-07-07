@@ -26,7 +26,7 @@
         "drupal/hosting_tasks_extra": "3.180",
         "drupal/drupal": "^7.71",
         "drush/drush": "^8.0",
-        "drupal/provision": "dev-7.x-3.18.x"
+        "drupal/provision": "3.18.6"
     },
     "conflict": {
         "drupal/core": "8.*"
