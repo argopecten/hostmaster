@@ -27,19 +27,8 @@
         "drupal/drupal": "^7.71",
         "drush/drush": "^8.0",
         "drupal/provision": "^3.180"
-    },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packages.drupal.org/7"
-        }
-    ],
-    "conflict": {
-        "drupal/core": "8.*"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "config": {
-        "sort-packages": true
-    }
-}
+      },
+      "conflict": {
+          "drupal/core": "8.*"
+      }
+  }
