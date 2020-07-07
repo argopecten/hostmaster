@@ -17,29 +17,18 @@
         "drupal/hosting": "3.180",
         "drupal/eldir": "3.180",
         "drupal/hosting_civicrm": "3.180",
+        "argopecten/hosting_deploy": "dev-master",
         "drupal/hosting_git": "3.181",
         "drupal/hosting_https": "3.182",
         "drupal/hosting_logs": "3.181",
         "drupal/hosting_remote_import": "3.180",
         "drupal/hosting_site_backup_manager": "3.180",
         "drupal/hosting_tasks_extra": "3.180",
-        "argopecten/hosting_deploy": "dev-master",
         "drupal/drupal": "^7.71",
         "drush/drush": "^8.0",
         "drupal/provision": "3.185"
     },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packages.drupal.org/7"
-        }
-    ],
     "conflict": {
         "drupal/core": "8.*"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "config": {
-        "sort-packages": true
     }
 }
