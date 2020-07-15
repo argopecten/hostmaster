@@ -24,9 +24,9 @@
         "drupal/hosting_remote_import": "3.180",
         "drupal/hosting_site_backup_manager": "3.180",
         "drupal/hosting_tasks_extra": "3.180",
-        "drupal/drupal": "7.71",
+        "drupal/drupal": "7.72",
         "drush/drush": "8.3.5",
-        "drupal/provision": "3.18.5"
+        "drupal/provision": "3.18.6"
     },
     "conflict": {
         "drupal/core": "8.*"
