@@ -24,9 +24,9 @@
         "drupal/hosting_remote_import": "3.180",
         "drupal/hosting_site_backup_manager": "3.180",
         "drupal/hosting_tasks_extra": "3.180",
-        "drupal/drupal": "7.71",
+        "drupal/drupal": "7.72",
         "drush/drush": "8.3.0",
-        "aegir/provision": "~3.185.1"
+        "aegir/provision": "~3.186.1"
     },
     "conflict": {
         "drupal/core": "8.*"
